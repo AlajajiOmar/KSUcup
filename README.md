@@ -19,7 +19,7 @@ IMPORTANT!: Run TicketingDB.py for the first time to create a database.
 
 > ID: 1234567890, Password: qwe123
 
-### Pages that i created
+
 
 
 ![image](https://github.com/AlajajiOmar/KSUcup/assets/72312883/d05c0192-1684-4c75-8b4f-a628c2efb694)
